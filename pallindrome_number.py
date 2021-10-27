@@ -1,7 +1,7 @@
 
-# Program to check if number is pallindrome or not
+# Program to check if number is palindrome or not
 
-def check_pallindrome(input_number):
+def check_palindrome(input_number):
         original_number = input_number
         temp_number = 0
         while(True):
